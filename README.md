@@ -25,7 +25,9 @@ But I'm learning about Site Reliability Engineering to become DevOps Engineer. :
 - Maven
 
 
-Check out my [Linkedin](www.linkedin.com/in/hector-cantero-alvarez-081082b8) profile for more info.
+Check out my LinkedIn profile for more info:
+- www.linkedin.com/in/hector-cantero-alvarez-081082b8 
+
 
   
   
